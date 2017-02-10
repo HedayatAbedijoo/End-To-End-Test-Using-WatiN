@@ -1,0 +1,4 @@
+D:\Projects\C#\WatinUITest\PortalTestApp\bin\PortalTestApp.dll
+D:\Projects\C#\WatinUITest\PortalTestApp\bin\PortalTestApp.pdb
+D:\Projects\C#\WatinUITest\PortalTestApp\obj\Debug\PortalTestApp.dll
+D:\Projects\C#\WatinUITest\PortalTestApp\obj\Debug\PortalTestApp.pdb

@@ -1,0 +1,13 @@
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\UITestingFlow.dll
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\UITestingFlow.pdb
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\Logging.dll
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\nunit.framework.dll
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\WatiN.Core.dll
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\EntityFramework.dll
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\Logging.pdb
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\nunit.framework.xml
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\WatiN.Core.xml
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\bin\Release\EntityFramework.xml
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\obj\Release\UITestingFlow.csprojResolveAssemblyReference.cache
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\obj\Release\UITestingFlow.dll
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Extensions\UITestingPortal\UITestingFlow\obj\Release\UITestingFlow.pdb
